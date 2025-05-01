@@ -1,0 +1,31 @@
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\appsettings.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.staticwebassets.endpoints.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.exe
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.deps.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.runtimeconfig.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.dll
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\bin\Debug\net8.0\billing root.pdb
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.AssemblyInfo.cs
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.RazorAssemblyInfo.cache
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.RazorAssemblyInfo.cs
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\scopedcss\bundle\billing root.styles.css
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets\msbuild.billing root.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets\msbuild.billing root.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets\msbuild.build.billing root.props
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.billing root.props
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.billing root.props
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.dll
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\refint\billing root.dll
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.pdb
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\billing root.genruntimeconfig.cache
+C:\Users\Acer\Documents\Vivi egyetem\4. félév\full stack szoftverfejlesztés\labor\05workshop_BPTRBJ\billing root\billing root\obj\Debug\net8.0\ref\billing root.dll
